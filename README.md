@@ -1,3 +1,3 @@
 # Projeto-GTA
 
-https://coruscating-praline-faf461.netlify.app/
+https://aesthetic-sunshine-5b472b.netlify.app/
