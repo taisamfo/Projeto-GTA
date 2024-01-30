@@ -1,3 +1,3 @@
 # Projeto-GTA
 
-https://aesthetic-sunshine-5b472b.netlify.app/
+https://amazing-malasada-2239d0.netlify.app/
